@@ -1,0 +1,4 @@
+npx tsc
+
+mongoimport --db plenyDb --collection brands --file data/brands.json --jsonArray
+

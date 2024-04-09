@@ -1,0 +1,310 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.358Z"
+  },
+  "yearFounded": 1600
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1600,
+  "yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "yearsFounded": "1980",
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.396Z"
+  },
+  "yearFounded": 1600
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {},
+  "headquarters": "undefined",
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "brand": {
+    "name": "Licensed Concrete Tuna"
+  },
+  "brandName": "undefined",
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1600,
+  "yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "brand": "",
+  "updatedAt": {
+    "$date": "2024-04-09T13:51:10.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b094"
+  },
+  "brandName": "Kuvalis - Kiehn",
+  "yearFounded": 1992,
+  "headquarters": "Fresno",
+  "numberOfLocations": {
+    "$numberLong": "6116167672397824"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b097"
+  },
+  "brandName": "Herzog Inc",
+  "yearFounded": 1735,
+  "headquarters": "Lake Brainberg",
+  "numberOfLocations": {
+    "$numberLong": "980763803648000"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b099"
+  },
+  "brandName": "Heaney Group",
+  "yearFounded": 1624,
+  "headquarters": "Port Otilia",
+  "numberOfLocations": {
+    "$numberLong": "8139479952916480"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b09b"
+  },
+  "brandName": "O'Hara and Sons",
+  "yearFounded": 1812,
+  "headquarters": "Ziemannchester",
+  "numberOfLocations": {
+    "$numberLong": "1390371003170816"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b09d"
+  },
+  "brandName": "Walter, Langosh and Senger",
+  "yearFounded": 1986,
+  "headquarters": "New Marisastead",
+  "numberOfLocations": {
+    "$numberLong": "3380473921273856"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b09f"
+  },
+  "brandName": "Fay Group",
+  "yearFounded": 2005,
+  "headquarters": "Port Delfinaberg",
+  "numberOfLocations": {
+    "$numberLong": "168656916971520"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b0a1"
+  },
+  "brandName": "Frami - McClure",
+  "yearFounded": 1784,
+  "headquarters": "Allentown",
+  "numberOfLocations": {
+    "$numberLong": "3264897540423680"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b0a3"
+  },
+  "brandName": "Wisoky, Schiller and O'Hara",
+  "yearFounded": 1722,
+  "headquarters": "Lake Blakeside",
+  "numberOfLocations": {
+    "$numberLong": "5975681137639424"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b0a5"
+  },
+  "brandName": "Nitzsche Group",
+  "yearFounded": 1671,
+  "headquarters": "Lake Tristin",
+  "numberOfLocations": {
+    "$numberLong": "8948461565116416"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661549bdc89ac9540f67b0a7"
+  },
+  "brandName": "McGlynn - Cole",
+  "yearFounded": 1986,
+  "headquarters": "New Minnie",
+  "numberOfLocations": {
+    "$numberLong": "2166506892820480"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T13:59:25.066Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T13:59:25.066Z"
+  },
+  "__v": 0
+}]
